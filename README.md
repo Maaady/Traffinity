@@ -146,13 +146,3 @@ loadBalancer.addServer({
 
 This project is licensed under the MIT License .
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=traffinity/traffinity&type=Date)](https://star-history.com/#traffinity/traffinity&Date)
-
----
-
-<div align="center">
-  <strong>Built with ❤️ by the Traffinity Team</strong><br>
-  <a href="https://traffinity.com">traffinity.com</a> | <a href="https://twitter.com/traffinity">Twitter</a> | <a href="https://discord.gg/traffinity">Discord</a>
-</div>
