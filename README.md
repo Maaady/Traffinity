@@ -140,7 +140,7 @@ loadBalancer.addServer({
 
 ## 👥 Core Team
 
-- **Mrityunjay Dwivedi** - Software dev Engineer
+- **Mrityunjay Dwivedi** - Software Dev Engineer
  
 ## 📝 License
 
