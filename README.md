@@ -3,7 +3,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.3.1-61dafb.svg)](https://reactjs.org/)
 [![Express](https://img.shields.io/badge/Express-4.18.3-green.svg)](https://expressjs.com/)
-[![Express](https://img.shields.io/badge/Express-4.18.3-green.svg)](https://expressjs.com/)
+[![PLpgSQL](https://img.shields.io/badge/PLpgSQL-6.1.5-green.svg)](https://PLpgSQL.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/traffinity/traffinity/graphs/commit-activity)
