@@ -18,7 +18,24 @@
 A production-ready, full-stack monitoring dashboard for enterprise load balancing infrastructure with real-time analytics, AI-driven insights, and comprehensive system monitoring.
 
 ## ✨ Features
+---
 
+### Flow (Structural View)
+
+```mermaid
+flowchart TD
+    User[👤 User Dashboard] --> F[Frontend: React + TypeScript]
+    F -->|WebSocket/API Calls| B[Backend Gateway: Express.js]
+    B --> D[[Monitoring DB / Data Store]]
+    B --> A[AI/ML Engine: Prediction + Anomaly Detection]
+    B --> S[Security Layer: Threat Detection + Rate Limiting]
+    B --> M[Metrics Engine: Analytics + KPI]
+    M --> F
+    A --> F
+    S --> F
+    D --> M
+```
+---
 ### 🎯 **Enterprise-Grade Monitoring**
 - **Real-time server monitoring** with health scores and performance metrics
 - **Advanced traffic analytics** with P95/P99 response times
