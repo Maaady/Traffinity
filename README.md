@@ -156,24 +156,7 @@ npm run dev
 - `alert_dismissed` - Alert dismissal updates
 - `server_restarted` - Server restart notifications
 
-## 🏗️ Architecture
 
-### Frontend Architecture
-```
-src/
-├── components/          # Reusable UI components
-├── hooks/              # Custom React hooks
-├── services/           # API service layer
-├── types/              # TypeScript type definitions
-├── utils/              # Utility functions
-└── App.tsx             # Main application component
-```
-
-### Backend Architecture
-```
-server/
-└── index.js            # Express server with WebSocket support
-```
 
 ## 🎨 Design System
 
